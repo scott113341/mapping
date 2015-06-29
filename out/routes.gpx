@@ -147,7 +147,6 @@
     <rtept lat="40.9589" lon="-123.0223"/>
     <rtept lat="40.9598" lon="-123.0221"/>
     <rtept lat="40.9603" lon="-123.0219"/>
-    <mcgee>aodsifhiaos</mcgee>
   </rte>
   <rte>
     <name>Boulder Creek Lakes Scramble</name>
@@ -194,7 +193,6 @@
     <rtept lat="40.9463" lon="-123.0370"/>
     <rtept lat="40.9461" lon="-123.0368"/>
     <rtept lat="40.9455" lon="-123.0372"/>
-    <mcgee>aodsifhiaos</mcgee>
   </rte>
   <rte>
     <name>box</name>
@@ -204,6 +202,5 @@
     <rtept lat="40.9569" lon="-123.0219"/>
     <rtept lat="40.9570" lon="-123.0219"/>
     <rtept lat="40.9570" lon="-123.0221"/>
-    <mcgee>aodsifhiaos</mcgee>
   </rte>
 </gpx>

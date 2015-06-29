@@ -6,13 +6,14 @@ import xml2js from 'xml2js';
 import * as config from './config/config';
 
 
-var inFileName = `./in/${config.FILE_NAME}`;
-var outFileName = `./out/${config.FILE_NAME}`;
+var fileName = config.FILE_NAME;
+//fileName = 'other.gpx';
+var inFileName = `./in/${fileName}`;
+var outFileName = `./out/${fileName}`;
 var inFile = fs.readFileSync(inFileName, { encoding: 'utf-8' });
 
 
 xml2js.parseString(inFile, (err, result) => {
-  console.log(result);
   var folders = getFolders(result);
   var waypoints = result.gpx.wpt;
   var routes = result.gpx.rte;
@@ -43,8 +44,6 @@ xml2js.parseString(inFile, (err, result) => {
       });
     })
     .then(() => {
-      console.log('hereeeeeeeeeeee');
-      console.log(routes);
       var builder = new xml2js.Builder({ cdata: true });
       var xml = builder.buildObject(result);
       //console.log(xml);
@@ -111,7 +110,6 @@ function RateLimit(fn, delay=0, context=null) {
   function processQueue() {
     if (queue.length) {
       var fnInstance = queue.shift();
-      //console.log('calling', fnInstance.arguments);
       fn.apply(fnInstance.context, fnInstance.arguments);
     }
     else {
