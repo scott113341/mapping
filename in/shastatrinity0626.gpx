@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="details.xsl"?>
+<gpx version="1.1" creator="BackCountry Navigator on Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+    <wpt lat="41.01008655723805" lon="-123.05022239685057">
+        <ele>0</ele>
+        <time>2015-05-16T12:20:46Z</time>
+        <name><![CDATA[Grizzly Lake]]></name>
+        <cmt><![CDATA[]]></cmt>
+        <desc><![CDATA[]]></desc>
+        <sym><![CDATA[circleblue]]></sym>
+    </wpt>
+    <wpt lat="41.00054482931173" lon="-123.04837703704835">
+        <ele>0</ele>
+        <time>2015-05-16T12:37:06Z</time>
+        <name><![CDATA[Thompson Peak]]></name>
+        <cmt><![CDATA[]]></cmt>
+        <desc><![CDATA[]]></desc>
+        <sym><![CDATA[trianglered]]></sym>
+    </wpt>
+</gpx>

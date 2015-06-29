@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="CALTOPO">
+  <metadata>
+    <desc>Folder=2%3DCamps%261%3DPeaks%260%3DWater</desc>
+  </metadata>
+  <wpt lat="40.993129509091595" lon="-122.91109886169431">
+    <name>Horseshoe Lake</name>
+    <sym>circleblue</sym>
+    <ele>6867.83677946933</ele>
+  </wpt>
+  <wpt lat="41.003575100584335" lon="-122.90835227966306">
+    <name>Ward Lake</name>
+    <sym>circleblue</sym>
+    <ele>7121.807909358817</ele>
+  </wpt>
+  <wpt lat="40.99690306878035" lon="-122.92144145965574">
+    <name>Salmon Lake</name>
+    <sym>circleblue</sym>
+    <ele>7138.518085601368</ele>
+  </wpt>
+  <wpt lat="41.01775902054395" lon="-122.94586029052732">
+    <name>Josephine Lake</name>
+    <sym>circleblue</sym>
+    <ele>5821.604090389483</ele>
+  </wpt>
+  <wpt lat="41.02025222512973" lon="-122.9766735076904">
+    <name>Caribou Lake</name>
+    <sym>circleblue</sym>
+    <ele>6825.544702697845</ele>
+  </wpt>
+  <wpt lat="41.02863776613733" lon="-122.9713949203491">
+    <name>Snowslide Lake</name>
+    <sym>circleblue</sym>
+    <ele>6670.691222316861</ele>
+  </wpt>
+  <wpt lat="41.028346394588866" lon="-122.97680225372312">
+    <name>Lower Caribou Lake</name>
+    <sym>circleblue</sym>
+    <ele>6513.208504397957</ele>
+  </wpt>
+  <wpt lat="41.018277096798144" lon="-123.01482524871824">
+    <name>Little South Fork Lake</name>
+    <sym>circleblue</sym>
+    <ele>5962.463539079661</ele>
+  </wpt>
+  <wpt lat="41.016010483108566" lon="-123.0133232116699">
+    <name>Moraine Lake</name>
+    <sym>circleblue</sym>
+    <ele>6050.222802325701</ele>
+  </wpt>
+  <wpt lat="41.00992262032739" lon="-123.04997291564939">
+    <name>Grizzly Lake</name>
+    <sym>circleblue</sym>
+    <ele>7108.460273614119</ele>
+  </wpt>
+  <wpt lat="41.01066744225245" lon="-123.06396331787107">
+    <name>Lois Lake</name>
+    <sym>circleblue</sym>
+    <ele>7578.5166822716055</ele>
+  </wpt>
+  <wpt lat="40.99887883790872" lon="-123.01177825927732">
+    <name>Sapphire Lake</name>
+    <sym>circleblue</sym>
+    <ele>5883.753018092853</ele>
+  </wpt>
+  <wpt lat="40.99557505953528" lon="-123.02842941284177">
+    <name>Mirror Lake</name>
+    <sym>circleblue</sym>
+    <ele>6612.4791422902335</ele>
+  </wpt>
+  <wpt lat="41.00477340368288" lon="-122.99821701049802">
+    <name>Emerald Lake</name>
+    <sym>circleblue</sym>
+    <ele>5503.691024958504</ele>
+  </wpt>
+  <wpt lat="40.96405128191076" lon="-122.99478378295896">
+    <name>Smith Lake</name>
+    <sym>circleblue</sym>
+    <ele>6938.149760060831</ele>
+  </wpt>
+  <wpt lat="40.96573638696517" lon="-123.00057735443113">
+    <name>Morris Lake</name>
+    <sym>circleblue</sym>
+    <ele>7316.897735165942</ele>
+  </wpt>
+  <wpt lat="40.94308108812405" lon="-122.99126472473142">
+    <name>Alpine Lake</name>
+    <sym>circleblue</sym>
+    <ele>6149.764574081372</ele>
+  </wpt>
+  <wpt lat="40.94350250225829" lon="-123.04593887329099">
+    <name>Forbidden Lakes</name>
+    <sym>circleblue</sym>
+    <ele>6164.419419471734</ele>
+  </wpt>
+  <wpt lat="40.944442570251475" lon="-123.036754989624">
+    <name>Boulder Creek Lakes</name>
+    <sym>circleblue</sym>
+    <ele>5754.372504103662</ele>
+  </wpt>
+  <wpt lat="40.97186073330861" lon="-123.06722488403318">
+    <name>Papoose Lake</name>
+    <sym>circleblue</sym>
+    <ele>6672.844673991108</ele>
+  </wpt>
+  <wpt lat="40.97315681838158" lon="-123.02422370910642">
+    <name>Canyon Creek Lakes</name>
+    <sym>circleblue</sym>
+    <ele>5708.331010450224</ele>
+  </wpt>
+  <wpt lat="40.98193712413567" lon="-123.01340904235838">
+    <name>L Lake</name>
+    <sym>circleblue</sym>
+    <ele>6532.432976644021</ele>
+  </wpt>
+  <wpt lat="40.93873712419355" lon="-122.8968509674072">
+    <name>Summit Lake</name>
+    <sym>circleblue</sym>
+    <ele>7506.065869238759</ele>
+  </wpt>
+  <wpt lat="40.95251363782811" lon="-122.85762634277341">
+    <name>Granite Lake</name>
+    <sym>circleblue</sym>
+    <ele>5959.28482493823</ele>
+  </wpt>
+  <wpt lat="40.9438914975369" lon="-122.89311733245847">
+    <name>Deer Lake</name>
+    <sym>circleblue</sym>
+    <ele>7133.361335785936</ele>
+  </wpt>
+  <wpt lat="40.943534918622284" lon="-122.90500488281248">
+    <name>Diamond Lake</name>
+    <sym>circleblue</sym>
+    <ele>7267.099615753822</ele>
+  </wpt>
+  <wpt lat="40.95215710547086" lon="-122.90208663940427">
+    <name>Luella Lake</name>
+    <sym>circleblue</sym>
+    <ele>6939.851855953622</ele>
+  </wpt>
+  <wpt lat="41.00772048887561" lon="-122.80436840057371">
+    <name>Shimmy Lake</name>
+    <sym>circleblue</sym>
+    <ele>6355.521534971914</ele>
+  </wpt>
+  <wpt lat="41.0625575473302" lon="-122.85410728454588">
+    <name>Sugar Pine Lake</name>
+    <sym>circleblue</sym>
+    <ele>6582.754941097974</ele>
+  </wpt>
+  <wpt lat="41.046765015268186" lon="-122.85651054382322">
+    <name>Foster Lake</name>
+    <sym>circleblue</sym>
+    <ele>7248.595230193693</ele>
+  </wpt>
+  <wpt lat="41.047735977017716" lon="-122.85041656494138">
+    <name>Lion Lake</name>
+    <sym>circleblue</sym>
+    <ele>6989.272710817269</ele>
+  </wpt>
+  <wpt lat="41.048124357705845" lon="-122.84698333740232">
+    <name>Conway Lake</name>
+    <sym>circleblue</sym>
+    <ele>6834.842551697153</ele>
+  </wpt>
+  <wpt lat="41.0491600283336" lon="-122.80788745880125">
+    <name>Boulder Lake</name>
+    <sym>circleblue</sym>
+    <ele>6073.5443195090065</ele>
+  </wpt>
+  <wpt lat="41.04699157429131" lon="-122.7965148925781">
+    <name>Little Boulder Lake</name>
+    <sym>circleblue</sym>
+    <ele>6321.57373300662</ele>
+  </wpt>
+  <wpt lat="41.04566457463193" lon="-122.81316604614256">
+    <name>Tapie Lake</name>
+    <sym>circleblue</sym>
+    <ele>6514.636262482144</ele>
+  </wpt>
+  <wpt lat="41.041683415093054" lon="-122.81900253295896">
+    <name>Found Lake</name>
+    <sym>circleblue</sym>
+    <ele>6869.871284677655</ele>
+  </wpt>
+  <wpt lat="41.03242547894361" lon="-122.88805332183836">
+    <name>Landers Lake</name>
+    <sym>circleblue</sym>
+    <ele>7045.690982019471</ele>
+  </wpt>
+  <wpt lat="41.043301801680755" lon="-122.88393344879148">
+    <name>Union Lake</name>
+    <sym>circleblue</sym>
+    <ele>6031.520573148857</ele>
+  </wpt>
+  <wpt lat="41.043819676983766" lon="-122.96886291503904">
+    <name>Little Caribou Lake</name>
+    <sym>circleblue</sym>
+    <ele>7187.375046108062</ele>
+  </wpt>
+  <wpt lat="40.929675474025" lon="-122.87638034820554">
+    <name>Lake Anna</name>
+    <sym>circleblue</sym>
+    <ele>7514.584358565742</ele>
+  </wpt>
+  <wpt lat="40.92241228830804" lon="-122.88277473449705">
+    <name>Echo Lake</name>
+    <sym>circleblue</sym>
+    <ele>7264.428326435018</ele>
+  </wpt>
+  <wpt lat="40.95664603148138" lon="-123.05396404266355">
+    <name>Mount Hilton</name>
+    <sym>trianglered</sym>
+    <ele>8955.272764635685</ele>
+  </wpt>
+  <wpt lat="40.97293000533812" lon="-123.00298061370847">
+    <name>Sawtooth Mountain</name>
+    <sym>trianglered</sym>
+    <ele>8858.403083185121</ele>
+  </wpt>
+  <wpt lat="41.00056305336259" lon="-123.04834213256834">
+    <name>Thompson Peak</name>
+    <sym>trianglered</sym>
+    <ele>8933.417052385937</ele>
+  </wpt>
+  <wpt lat="41.00409328839247" lon="-123.03705539703367">
+    <name>Caesar Peak</name>
+    <sym>trianglered</sym>
+    <ele>8903.033238973574</ele>
+  </wpt>
+  <wpt lat="40.99207676078584" lon="-123.04817047119138">
+    <name>Wedding Cake</name>
+    <sym>trianglered</sym>
+    <ele>8529.661483930777</ele>
+  </wpt>
+  <wpt lat="40.99385832501773" lon="-122.9175790786743">
+    <name>Tri-Forest Peak</name>
+    <sym>trianglered</sym>
+    <ele>7635.169642460437</ele>
+  </wpt>
+  <wpt lat="41.029576621257256" lon="-122.95972194671629">
+    <name>Caribou Mountain</name>
+    <sym>trianglered</sym>
+    <ele>8575.712589419847</ele>
+  </wpt>
+  <wpt lat="41.031162932226536" lon="-122.89809551239011">
+    <name>Red Rock Mountain</name>
+    <sym>trianglered</sym>
+    <ele>7859.570761020892</ele>
+  </wpt>
+  <wpt lat="40.98903179410497" lon="-122.89659347534177">
+    <name>Mumford Peak</name>
+    <sym>trianglered</sym>
+    <ele>7304.042705997277</ele>
+  </wpt>
+  <wpt lat="41.00908063758933" lon="-122.91294422149656">
+    <name>Black Mountain</name>
+    <sym>trianglered</sym>
+    <ele>8018.592974613185</ele>
+  </wpt>
+  <wpt lat="40.94599851546812" lon="-122.9008850097656">
+    <name>Siligo Peak</name>
+    <sym>trianglered</sym>
+    <ele>8138.667229246891</ele>
+  </wpt>
+  <wpt lat="40.9433404202287" lon="-122.87290420532224">
+    <name>Gibson Peak</name>
+    <sym>trianglered</sym>
+    <ele>8388.034289869664</ele>
+  </wpt>
+  <wpt lat="40.95880125572989" lon="-122.88007106781004">
+    <name>Seven Up Peak</name>
+    <sym>trianglered</sym>
+    <ele>8101.901156976287</ele>
+  </wpt>
+  <wpt lat="40.91711030725346" lon="-122.87977066040037">
+    <name>Middle Peak</name>
+    <sym>trianglered</sym>
+    <ele>8077.318086366559</ele>
+  </wpt>
+  <wpt lat="40.909878173479186" lon="-122.87264671325681">
+    <name>Granite Peak</name>
+    <sym>trianglered</sym>
+    <ele>8070.705944439503</ele>
+  </wpt>
+  <wpt lat="40.91091601707765" lon="-122.8968509674072">
+    <name>Red Mountain</name>
+    <sym>trianglered</sym>
+    <ele>7895.460554276571</ele>
+  </wpt>
+  <wpt lat="40.9329987637729" lon="-122.99916114807127">
+    <name>Little Granite Peak</name>
+    <sym>trianglered</sym>
+    <ele>8014.147500634364</ele>
+  </wpt>
+  <wpt lat="41.028751076966564" lon="-122.7956136703491">
+    <name>Ycatapom Peak</name>
+    <sym>trianglered</sym>
+    <ele>7561.310695507813</ele>
+  </wpt>
+  <wpt lat="41.05945111927506" lon="-122.91689243316648">
+    <name>Preachers Peak</name>
+    <sym>trianglered</sym>
+    <ele>7202.352688978327</ele>
+  </wpt>
+  <wpt lat="41.090993956908065" lon="-122.97148075103757">
+    <name>Packers Peak</name>
+    <sym>trianglered</sym>
+    <ele>7826.302595933262</ele>
+  </wpt>
+  <wpt lat="41.07003178858091" lon="-122.87329044342039">
+    <name>Battle Mountain</name>
+    <sym>trianglered</sym>
+    <ele>7895.754516249585</ele>
+  </wpt>
+  <wpt lat="40.9994699376778" lon="-122.97057952880857">
+    <name>Portuguese Camp</name>
+    <sym>squaregreen</sym>
+    <ele>4894.334687941791</ele>
+  </wpt>
+  <wpt lat="40.970880552085404" lon="-122.95240488052366">
+    <name>Morris Meadows Camp</name>
+    <sym>squaregreen</sym>
+    <ele>4399.540618318196</ele>
+  </wpt>
+  <wpt lat="40.98445598136221" lon="-123.08531370162962">
+    <name>Enos Camp</name>
+    <sym>squaregreen</sym>
+    <ele>5423.440207312007</ele>
+  </wpt>
+  <wpt lat="40.83187983330238" lon="-122.97817554473875">
+    <name>Monument Peak</name>
+    <sym>trianglered</sym>
+    <ele>7760.688200992169</ele>
+  </wpt>
+  <wpt lat="40.84952552504297" lon="-122.97405567169187">
+    <name>East Fork Lake</name>
+    <sym>trianglered</sym>
+    <ele>5884.859981162895</ele>
+  </wpt>
+  <wpt lat="41.00679751484984" lon="-122.95224394798277">
+    <name>Sawtooth Ridge</name>
+    <sym>trianglered</sym>
+    <ele>8217.264811165049</ele>
+  </wpt>
+</gpx>

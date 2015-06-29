@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="CALTOPO">
+  <metadata>
+    <desc>Folder=3%3DTrailheads%262%3DCamps%261%3DPeaks%260%3DWater%265%3DTrinity%2BAlps%2BWilderness%264%3DCampgrounds</desc>
+  </metadata>
+  <wpt lat="40.993129509091595" lon="-122.91109886169431">
+    <name>Horseshoe Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.003575100584335" lon="-122.90835227966306">
+    <name>Ward Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.99690306878035" lon="-122.92144145965574">
+    <name>Salmon Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.01775902054395" lon="-122.94586029052732">
+    <name>Josephine Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.02025222512973" lon="-122.9766735076904">
+    <name>Caribou Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.02863776613733" lon="-122.9713949203491">
+    <name>Snowslide Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.028346394588866" lon="-122.97680225372312">
+    <name>Lower Caribou Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.018277096798144" lon="-123.01482524871824">
+    <name>Little South Fork Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.016010483108566" lon="-123.0133232116699">
+    <name>Moraine Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.00992262032739" lon="-123.04997291564939">
+    <name>Grizzly Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.01066744225245" lon="-123.06396331787107">
+    <name>Lois Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.99887883790872" lon="-123.01177825927732">
+    <name>Sapphire Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.99557505953528" lon="-123.02842941284177">
+    <name>Mirror Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.00477340368288" lon="-122.99821701049802">
+    <name>Emerald Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.96405128191076" lon="-122.99478378295896">
+    <name>Smith Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.96573638696517" lon="-123.00057735443113">
+    <name>Morris Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.94308108812405" lon="-122.99126472473142">
+    <name>Alpine Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.94350250225829" lon="-123.04593887329099">
+    <name>Forbidden Lakes</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.944442570251475" lon="-123.036754989624">
+    <name>Boulder Creek Lakes</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.97186073330861" lon="-123.06722488403318">
+    <name>Papoose Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.97315681838158" lon="-123.02422370910642">
+    <name>Canyon Creek Lakes</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.98193712413567" lon="-123.01340904235838">
+    <name>L Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.93873712419355" lon="-122.8968509674072">
+    <name>Summit Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.95251363782811" lon="-122.85762634277341">
+    <name>Granite Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.9438914975369" lon="-122.89311733245847">
+    <name>Deer Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.943534918622284" lon="-122.90500488281248">
+    <name>Diamond Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.95215710547086" lon="-122.90208663940427">
+    <name>Luella Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.00772048887561" lon="-122.80436840057371">
+    <name>Shimmy Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.0625575473302" lon="-122.85410728454588">
+    <name>Sugar Pine Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.046765015268186" lon="-122.85651054382322">
+    <name>Foster Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.047735977017716" lon="-122.85041656494138">
+    <name>Lion Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.048124357705845" lon="-122.84698333740232">
+    <name>Conway Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.0491600283336" lon="-122.80788745880125">
+    <name>Boulder Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.04699157429131" lon="-122.7965148925781">
+    <name>Little Boulder Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.04566457463193" lon="-122.81316604614256">
+    <name>Tapie Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.041683415093054" lon="-122.81900253295896">
+    <name>Found Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.03242547894361" lon="-122.88805332183836">
+    <name>Landers Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.043301801680755" lon="-122.88393344879148">
+    <name>Union Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.043819676983766" lon="-122.96886291503904">
+    <name>Little Caribou Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.929675474025" lon="-122.87638034820554">
+    <name>Lake Anna</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.92241228830804" lon="-122.88277473449705">
+    <name>Echo Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.95664603148138" lon="-123.05396404266355">
+    <name>Mount Hilton</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.97293000533812" lon="-123.00298061370847">
+    <name>Sawtooth Mountain</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.00056305336259" lon="-123.04834213256834">
+    <name>Thompson Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.00409328839247" lon="-123.03705539703367">
+    <name>Caesar Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.99207676078584" lon="-123.04817047119138">
+    <name>Wedding Cake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.99385832501773" lon="-122.9175790786743">
+    <name>Tri-Forest Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.029576621257256" lon="-122.95972194671629">
+    <name>Caribou Mountain</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.031162932226536" lon="-122.89809551239011">
+    <name>Red Rock Mountain</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.98903179410497" lon="-122.89659347534177">
+    <name>Mumford Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.00908063758933" lon="-122.91294422149656">
+    <name>Black Mountain</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.94599851546812" lon="-122.9008850097656">
+    <name>Siligo Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.9433404202287" lon="-122.87290420532224">
+    <name>Gibson Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.95880125572989" lon="-122.88007106781004">
+    <name>Seven Up Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.91711030725346" lon="-122.87977066040037">
+    <name>Middle Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.909878173479186" lon="-122.87264671325681">
+    <name>Granite Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.91091601707765" lon="-122.8968509674072">
+    <name>Red Mountain</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.9329987637729" lon="-122.99916114807127">
+    <name>Little Granite Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.028751076966564" lon="-122.7956136703491">
+    <name>Ycatapom Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.05945111927506" lon="-122.91689243316648">
+    <name>Preachers Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.090993956908065" lon="-122.97148075103757">
+    <name>Packers Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.07003178858091" lon="-122.87329044342039">
+    <name>Battle Mountain</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.9994699376778" lon="-122.97057952880857">
+    <name>Portuguese Camp</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%2300CD00&folderId=2]]></desc>
+  </wpt>
+  <wpt lat="40.970880552085404" lon="-122.95240488052366">
+    <name>Morris Meadows Camp</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%2300CD00&folderId=2]]></desc>
+  </wpt>
+  <wpt lat="40.98445598136221" lon="-123.08531370162962">
+    <name>Enos Camp</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%2300CD00&folderId=2]]></desc>
+  </wpt>
+  <wpt lat="40.83187983330238" lon="-122.97817554473875">
+    <name>Monument Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.84952552504297" lon="-122.97405567169187">
+    <name>East Fork Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="41.00679751484984" lon="-122.95224394798277">
+    <name>Sawtooth Ridge</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=1]]></desc>
+  </wpt>
+  <wpt lat="40.98957439156525" lon="-122.7739306926727">
+    <name>Lake Eleanor</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.87274833871526" lon="-122.91784729957578">
+    <name>Bridge Camp</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=2]]></desc>
+  </wpt>
+  <wpt lat="40.881314867608985" lon="-122.92462792396543">
+    <name>Stuart Fork</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.86408333538513" lon="-122.90371742248533">
+    <name>Elk Gulch</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.88272629156505" lon="-122.87520017623899">
+    <name>Stoney Ridge</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.886489941606634" lon="-122.8465112686157">
+    <name>Granite Peak</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.92338508272528" lon="-122.81348791122434">
+    <name>Long Canyon</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.97297050775847" lon="-122.79969062805174">
+    <name>Swift Creek</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.985763967344724" lon="-122.7741989135742">
+    <name>Lake Eleanor</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="40.87609071484021" lon="-123.0292984485626">
+    <name>Ripstein Campground</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=4]]></desc>
+  </wpt>
+  <wpt lat="40.887410543250965" lon="-123.02407350540159">
+    <name>Canyon Creek</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="41.032579249042506" lon="-122.75529470443723">
+    <name>Poison Canyon</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="41.06481446948014" lon="-122.79039945602415">
+    <name>Boulder Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <wpt lat="41.09970196579243" lon="-122.78660144805906">
+    <name>Boulder Creek</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%23FF0000&folderId=3]]></desc>
+  </wpt>
+  <rte>
+    <name>Trinity Alps Wilderness</name>
+    <cmt/>
+    <desc><![CDATA[weight=1.0&pattern=solid&color=%23FF0000&fill=0.0&comments=&folderId=5]]></desc>
+    <rtept lat="41.290963845888356" lon="-122.61909484863281">
+      <name>1</name>
+    </rtept>
+    <rtept lat="40.58866745089944" lon="-122.62184143066406">
+      <name>2</name>
+    </rtept>
+    <rtept lat="40.599616765084086" lon="-123.61198425292969">
+      <name>3</name>
+    </rtept>
+    <rtept lat="41.29251159835371" lon="-123.60580444335938">
+      <name>4</name>
+    </rtept>
+    <rtept lat="41.290963845888356" lon="-122.61909484863281">
+      <name>1</name>
+    </rtept>
+  </rte>
+  <rte>
+    <name>Canyon Creek Trail</name>
+    <cmt/>
+    <desc><![CDATA[weight=2.0&pattern=solid&color=%23FF0000&fill=10.0&comments=]]></desc>
+    <rtept lat="40.8874085098602" lon="-123.02406549453735">
+      <name>1</name>
+    </rtept>
+    <rtept lat="40.88770050419027" lon="-123.02395820617676">
+      <name>2</name>
+    </rtept>
+    <rtept lat="40.88802494082365" lon="-123.02410840988159">
+      <name>3</name>
+    </rtept>
+    <rtept lat="40.88815471503162" lon="-123.02397966384888">
+      <name>4</name>
+    </rtept>
+    <rtept lat="40.88794383181442" lon="-123.02374362945557">
+      <name>5</name>
+    </rtept>
+    <rtept lat="40.888722474198985" lon="-123.02342176437378">
+      <name>6</name>
+    </rtept>
+    <rtept lat="40.889355114389915" lon="-123.02286386489868">
+      <name>7</name>
+    </rtept>
+    <rtept lat="40.88985797791921" lon="-123.02279949188232">
+      <name>8</name>
+    </rtept>
+    <rtept lat="40.89078258798333" lon="-123.02217721939087">
+      <name>9</name>
+    </rtept>
+    <rtept lat="40.89087991460691" lon="-123.02149057388306">
+      <name>10</name>
+    </rtept>
+    <rtept lat="40.89110700950513" lon="-123.02103996276855">
+      <name>11</name>
+    </rtept>
+    <rtept lat="40.89125299867098" lon="-123.02088975906372">
+      <name>12</name>
+    </rtept>
+    <rtept lat="40.89141520847744" lon="-123.02206993103027">
+      <name>13</name>
+    </rtept>
+    <rtept lat="40.89113945156981" lon="-123.02301406860352">
+      <name>14</name>
+    </rtept>
+    <rtept lat="40.890636597779576" lon="-123.02337884902954">
+      <name>15</name>
+    </rtept>
+    <rtept lat="40.89050682843914" lon="-123.02370071411133">
+      <name>16</name>
+    </rtept>
+    <rtept lat="40.890766366865506" lon="-123.02382946014404">
+      <name>17</name>
+    </rtept>
+    <rtept lat="40.891674743340644" lon="-123.02335739135742">
+      <name>18</name>
+    </rtept>
+    <rtept lat="40.892566886668185" lon="-123.02292823791504">
+      <name>19</name>
+    </rtept>
+    <rtept lat="40.893037284669894" lon="-123.0224347114563">
+      <name>20</name>
+    </rtept>
+    <rtept lat="40.893637442781866" lon="-123.02215576171875">
+      <name>21</name>
+    </rtept>
+    <rtept lat="40.894448458607975" lon="-123.02211284637451">
+      <name>22</name>
+    </rtept>
+    <rtept lat="40.894870182908456" lon="-123.02202701568604">
+      <name>23</name>
+    </rtept>
+    <rtept lat="40.89558386406181" lon="-123.02215576171875">
+      <name>24</name>
+    </rtept>
+    <rtept lat="40.89662193199539" lon="-123.02222013473511">
+      <name>25</name>
+    </rtept>
+    <rtept lat="40.897108520731905" lon="-123.02226305007935">
+      <name>26</name>
+    </rtept>
+    <rtept lat="40.897805958345806" lon="-123.02228450775146">
+      <name>27</name>
+    </rtept>
+    <rtept lat="40.89873045733701" lon="-123.02217721939087">
+      <name>28</name>
+    </rtept>
+    <rtept lat="40.900060415677466" lon="-123.02202701568604">
+      <name>29</name>
+    </rtept>
+    <rtept lat="40.90109841336289" lon="-123.02157640457153">
+      <name>30</name>
+    </rtept>
+    <rtept lat="40.901617406096996" lon="-123.02140474319458">
+      <name>31</name>
+    </rtept>
+    <rtept lat="40.90224992298553" lon="-123.02138328552246">
+      <name>32</name>
+    </rtept>
+    <rtept lat="40.90351493861563" lon="-123.02088975906372">
+      <name>33</name>
+    </rtept>
+    <rtept lat="40.904974541968706" lon="-123.0205249786377">
+      <name>34</name>
+    </rtept>
+    <rtept lat="40.905574591780905" lon="-123.02050352096558">
+      <name>35</name>
+    </rtept>
+    <rtept lat="40.90625572280764" lon="-123.02024602890015">
+      <name>36</name>
+    </rtept>
+    <rtept lat="40.90703414967629" lon="-123.02018165588379">
+      <name>37</name>
+    </rtept>
+    <rtept lat="40.90795851968141" lon="-123.02013874053955">
+      <name>38</name>
+    </rtept>
+    <rtept lat="40.908574759172815" lon="-123.02033185958862">
+      <name>39</name>
+    </rtept>
+    <rtept lat="40.90920720952127" lon="-123.0205249786377">
+      <name>40</name>
+    </rtept>
+    <rtept lat="40.90946667458097" lon="-123.0209755897522">
+      <name>41</name>
+    </rtept>
+    <rtept lat="40.90964505621889" lon="-123.0215334892273">
+      <name>42</name>
+    </rtept>
+    <rtept lat="40.91003425084946" lon="-123.0219841003418">
+      <name>43</name>
+    </rtept>
+    <rtept lat="40.91050452463825" lon="-123.02224159240723">
+      <name>44</name>
+    </rtept>
+    <rtept lat="40.911218037102955" lon="-123.02228450775146">
+      <name>45</name>
+    </rtept>
+    <rtept lat="40.91181803026118" lon="-123.02271366119385">
+      <name>46</name>
+    </rtept>
+    <rtept lat="40.91233693887211" lon="-123.02286386489868">
+      <name>47</name>
+    </rtept>
+    <rtept lat="40.91295313755789" lon="-123.02273511886597">
+      <name>48</name>
+    </rtept>
+    <rtept lat="40.91337474387597" lon="-123.0225419998169">
+      <name>49</name>
+    </rtept>
+    <rtept lat="40.91394228659697" lon="-123.02269220352173">
+      <name>50</name>
+    </rtept>
+    <rtept lat="40.914509824445844" lon="-123.02275657653809">
+      <name>51</name>
+    </rtept>
+    <rtept lat="40.91533679944644" lon="-123.02279949188232">
+      <name>52</name>
+    </rtept>
+    <rtept lat="40.915823250496764" lon="-123.02290678024292">
+      <name>53</name>
+    </rtept>
+    <rtept lat="40.91640698703218" lon="-123.02327156066895">
+      <name>54</name>
+    </rtept>
+    <rtept lat="40.91689343020753" lon="-123.02314281463623">
+      <name>55</name>
+    </rtept>
+    <rtept lat="40.91812573689789" lon="-123.02329301834106">
+      <name>56</name>
+    </rtept>
+    <rtept lat="40.919503947428964" lon="-123.02359342575073">
+      <name>57</name>
+    </rtept>
+    <rtept lat="40.920574067551705" lon="-123.0238938331604">
+      <name>58</name>
+    </rtept>
+    <rtept lat="40.92133611222874" lon="-123.0238938331604">
+      <name>59</name>
+    </rtept>
+    <rtept lat="40.922114361553945" lon="-123.02372217178345">
+      <name>60</name>
+    </rtept>
+    <rtept lat="40.92245484275209" lon="-123.02316427230835">
+      <name>61</name>
+    </rtept>
+    <rtept lat="40.92268182924306" lon="-123.02297115325928">
+      <name>62</name>
+    </rtept>
+    <rtept lat="40.922989881091034" lon="-123.02303552627563">
+      <name>63</name>
+    </rtept>
+    <rtept lat="40.92358976741125" lon="-123.02267074584961">
+      <name>64</name>
+    </rtept>
+    <rtept lat="40.92454633163077" lon="-123.02211284637451">
+      <name>65</name>
+    </rtept>
+    <rtept lat="40.92506514033157" lon="-123.02191972732544">
+      <name>66</name>
+    </rtept>
+    <rtept lat="40.925502882004835" lon="-123.02191972732544">
+      <name>67</name>
+    </rtept>
+    <rtept lat="40.92590819578363" lon="-123.02157640457153">
+      <name>68</name>
+    </rtept>
+    <rtept lat="40.92632971947652" lon="-123.02168369293213">
+      <name>69</name>
+    </rtept>
+    <rtept lat="40.92667017895789" lon="-123.02149057388306">
+      <name>70</name>
+    </rtept>
+    <rtept lat="40.92649184325786" lon="-123.02129745483398">
+      <name>71</name>
+    </rtept>
+    <rtept lat="40.926913363227825" lon="-123.02123308181763">
+      <name>72</name>
+    </rtept>
+    <rtept lat="40.92735109265845" lon="-123.02138328552246">
+      <name>73</name>
+    </rtept>
+    <rtept lat="40.92809684723239" lon="-123.02114725112915">
+      <name>74</name>
+    </rtept>
+    <rtept lat="40.92902092274593" lon="-123.02084684371948">
+      <name>75</name>
+    </rtept>
+    <rtept lat="40.930204369003874" lon="-123.02069664001465">
+      <name>76</name>
+    </rtept>
+    <rtept lat="40.93062586529173" lon="-123.0205249786377">
+      <name>77</name>
+    </rtept>
+    <rtept lat="40.93073934460215" lon="-123.02035331726074">
+      <name>78</name>
+    </rtept>
+    <rtept lat="40.93098251389669" lon="-123.02061080932617">
+      <name>79</name>
+    </rtept>
+    <rtept lat="40.931582327663534" lon="-123.02048206329346">
+      <name>80</name>
+    </rtept>
+    <rtept lat="40.93240908906508" lon="-123.02078247070312">
+      <name>81</name>
+    </rtept>
+    <rtept lat="40.9326522522143" lon="-123.0210828781128">
+      <name>82</name>
+    </rtept>
+    <rtept lat="40.93310615436496" lon="-123.02091121673584">
+      <name>83</name>
+    </rtept>
+    <rtept lat="40.933495210869225" lon="-123.02073955535889">
+      <name>84</name>
+    </rtept>
+    <rtept lat="40.93390047562488" lon="-123.0203104019165">
+      <name>85</name>
+    </rtept>
+    <rtept lat="40.93411121231533" lon="-123.01988124847412">
+      <name>86</name>
+    </rtept>
+    <rtept lat="40.93446784210628" lon="-123.01945209503174">
+      <name>87</name>
+    </rtept>
+    <rtept lat="40.934548894063" lon="-123.01872253417969">
+      <name>88</name>
+    </rtept>
+    <rtept lat="40.93471099767812" lon="-123.01827192306519">
+      <name>89</name>
+    </rtept>
+    <rtept lat="40.93497036263497" lon="-123.01810026168823">
+      <name>90</name>
+    </rtept>
+    <rtept lat="40.93560256045128" lon="-123.01801443099976">
+      <name>91</name>
+    </rtept>
+    <rtept lat="40.9365913705449" lon="-123.01810026168823">
+      <name>92</name>
+    </rtept>
+    <rtept lat="40.93725597229054" lon="-123.01820755004883">
+      <name>93</name>
+    </rtept>
+    <rtept lat="40.9379691959939" lon="-123.01820755004883">
+      <name>94</name>
+    </rtept>
+    <rtept lat="40.93822854815856" lon="-123.01790714263916">
+      <name>95</name>
+    </rtept>
+    <rtept lat="40.938844505468516" lon="-123.01816463470459">
+      <name>96</name>
+    </rtept>
+    <rtept lat="40.939087644930765" lon="-123.01790714263916">
+      <name>97</name>
+    </rtept>
+    <rtept lat="40.93999535768213" lon="-123.01782131195068">
+      <name>98</name>
+    </rtept>
+    <rtept lat="40.941065145981824" lon="-123.01764965057373">
+      <name>99</name>
+    </rtept>
+    <rtept lat="40.94177832855545" lon="-123.01812171936035">
+      <name>100</name>
+    </rtept>
+    <rtept lat="40.9423456273761" lon="-123.01855087280273">
+      <name>101</name>
+    </rtept>
+    <rtept lat="40.94315604580994" lon="-123.01835775375366">
+      <name>102</name>
+    </rtept>
+    <rtept lat="40.943788165284865" lon="-123.01835775375366">
+      <name>103</name>
+    </rtept>
+    <rtept lat="40.94467960554377" lon="-123.01887273788452">
+      <name>104</name>
+    </rtept>
+    <rtept lat="40.9453441259084" lon="-123.01908731460571">
+      <name>105</name>
+    </rtept>
+    <rtept lat="40.94592760169087" lon="-123.01947355270386">
+      <name>106</name>
+    </rtept>
+    <rtept lat="40.946332790173365" lon="-123.01925897598267">
+      <name>107</name>
+    </rtept>
+    <rtept lat="40.946494864870246" lon="-123.01908731460571">
+      <name>108</name>
+    </rtept>
+    <rtept lat="40.94647865741845" lon="-123.01844358444214">
+      <name>109</name>
+    </rtept>
+    <rtept lat="40.94690004987207" lon="-123.01788568496704">
+      <name>110</name>
+    </rtept>
+    <rtept lat="40.947532133510585" lon="-123.0177354812622">
+      <name>111</name>
+    </rtept>
+    <rtept lat="40.948180418136815" lon="-123.01752090454102">
+      <name>112</name>
+    </rtept>
+    <rtept lat="40.94855317891488" lon="-123.01782131195068">
+      <name>113</name>
+    </rtept>
+    <rtept lat="40.949169039937836" lon="-123.01764965057373">
+      <name>114</name>
+    </rtept>
+    <rtept lat="40.949622828594926" lon="-123.01792860031128">
+      <name>115</name>
+    </rtept>
+    <rtept lat="40.95014144038425" lon="-123.01786422729492">
+      <name>116</name>
+    </rtept>
+    <rtept lat="40.95057901591302" lon="-123.01797151565552">
+      <name>117</name>
+    </rtept>
+    <rtept lat="40.951097620191966" lon="-123.01771402359009">
+      <name>118</name>
+    </rtept>
+    <rtept lat="40.951551395594564" lon="-123.018057346344">
+      <name>119</name>
+    </rtept>
+    <rtept lat="40.95208619831522" lon="-123.01788568496704">
+      <name>120</name>
+    </rtept>
+    <rtept lat="40.95250755498339" lon="-123.01842212677002">
+      <name>121</name>
+    </rtept>
+    <rtept lat="40.9527303867497" lon="-123.01858574151993">
+      <name>122</name>
+    </rtept>
+    <rtept lat="40.95305855579964" lon="-123.01857769489288">
+      <name>123</name>
+    </rtept>
+    <rtept lat="40.953257077025654" lon="-123.01859378814697">
+      <name>124</name>
+    </rtept>
+    <rtept lat="40.95349206056253" lon="-123.01902830600739">
+      <name>125</name>
+    </rtept>
+    <rtept lat="40.954176749202624" lon="-123.01872253417969">
+      <name>126</name>
+    </rtept>
+    <rtept lat="40.95448465420536" lon="-123.01945209503174">
+      <name>127</name>
+    </rtept>
+    <rtept lat="40.95501943316538" lon="-123.01910877227783">
+      <name>128</name>
+    </rtept>
+    <rtept lat="40.955294923666244" lon="-123.01934480667114">
+      <name>129</name>
+    </rtept>
+    <rtept lat="40.95568384947499" lon="-123.0193018913269">
+      <name>130</name>
+    </rtept>
+    <rtept lat="40.95625102883871" lon="-123.01955938339233">
+      <name>131</name>
+    </rtept>
+    <rtept lat="40.95646169421837" lon="-123.01983833312988">
+      <name>132</name>
+    </rtept>
+    <rtept lat="40.956915432752666" lon="-123.01977396011353">
+      <name>133</name>
+    </rtept>
+    <rtept lat="40.9570774814734" lon="-123.02054643630981">
+      <name>134</name>
+    </rtept>
+    <rtept lat="40.95702886689896" lon="-123.02099704742432">
+      <name>135</name>
+    </rtept>
+    <rtept lat="40.95740157772137" lon="-123.02127599716187">
+      <name>136</name>
+    </rtept>
+    <rtept lat="40.95698025228869" lon="-123.02196264266968">
+      <name>137</name>
+    </rtept>
+    <rtept lat="40.956364464126686" lon="-123.02179098129272">
+      <name>138</name>
+    </rtept>
+    <rtept lat="40.95602415767801" lon="-123.02256345748901">
+      <name>139</name>
+    </rtept>
+    <rtept lat="40.95535974479351" lon="-123.02303552627563">
+      <name>140</name>
+    </rtept>
+    <rtept lat="40.954841173993394" lon="-123.02318572998047">
+      <name>141</name>
+    </rtept>
+    <rtept lat="40.95443603772146" lon="-123.02408695220947">
+      <name>142</name>
+    </rtept>
+    <rtept lat="40.95441983221886" lon="-123.02458047866821">
+      <name>143</name>
+    </rtept>
+    <rtept lat="40.95364196341629" lon="-123.02494525909424">
+      <name>144</name>
+    </rtept>
+    <rtept lat="40.953188202382215" lon="-123.02584648132324">
+      <name>145</name>
+    </rtept>
+    <rtept lat="40.95262099670383" lon="-123.02668333053589">
+      <name>146</name>
+    </rtept>
+    <rtept lat="40.952134816529544" lon="-123.02683353424072">
+      <name>147</name>
+    </rtept>
+    <rtept lat="40.951972755675854" lon="-123.02721977233887">
+      <name>148</name>
+    </rtept>
+    <rtept lat="40.952102404390644" lon="-123.02779912948608">
+      <name>149</name>
+    </rtept>
+    <rtept lat="40.95164863277507" lon="-123.02852869033813">
+      <name>150</name>
+    </rtept>
+    <rtept lat="40.951454158270835" lon="-123.02878618240356">
+      <name>151</name>
+    </rtept>
+    <rtept lat="40.951421745797774" lon="-123.02945137023926">
+      <name>152</name>
+    </rtept>
+    <rtept lat="40.95103279487986" lon="-123.0314040184021">
+      <name>153</name>
+    </rtept>
+    <rtept lat="40.95125968319377" lon="-123.0324125289917">
+      <name>154</name>
+    </rtept>
+    <rtept lat="40.951146239134275" lon="-123.03346395492554">
+      <name>155</name>
+    </rtept>
+    <rtept lat="40.950514190091745" lon="-123.03472995758057">
+      <name>156</name>
+    </rtept>
+    <rtept lat="40.95012523382749" lon="-123.03537368774414">
+      <name>157</name>
+    </rtept>
+    <rtept lat="40.950060407560684" lon="-123.03580284118652">
+      <name>158</name>
+    </rtept>
+    <rtept lat="40.94963903527502" lon="-123.03627490997314">
+      <name>159</name>
+    </rtept>
+    <rtept lat="40.94882869639837" lon="-123.0364465713501">
+      <name>160</name>
+    </rtept>
+    <rtept lat="40.94821283220104" lon="-123.036789894104">
+      <name>161</name>
+    </rtept>
+    <rtept lat="40.947759033853735" lon="-123.03726196289062">
+      <name>162</name>
+    </rtept>
+    <rtept lat="40.947483511907066" lon="-123.03792715072632">
+      <name>163</name>
+    </rtept>
+    <rtept lat="40.94680280569839" lon="-123.03816318511963">
+      <name>164</name>
+    </rtept>
+    <rtept lat="40.94660831692135" lon="-123.03809881210327">
+      <name>165</name>
+    </rtept>
+    <rtept lat="40.946511072318046" lon="-123.03743362426758">
+      <name>166</name>
+    </rtept>
+    <rtept lat="40.946332790173365" lon="-123.03691864013672">
+      <name>167</name>
+    </rtept>
+    <rtept lat="40.946057262275765" lon="-123.03668260574341">
+      <name>168</name>
+    </rtept>
+    <rtept lat="40.9457979408514" lon="-123.03694009780884">
+      <name>169</name>
+    </rtept>
+    <rtept lat="40.94547378763893" lon="-123.03717613220215">
+      <name>170</name>
+    </rtept>
+    <rtept lat="40.94536033363863" lon="-123.03713321685791">
+      <name>171</name>
+    </rtept>
+  </rte>
+</gpx>

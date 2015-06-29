@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="CALTOPO">
+  <metadata>
+    <desc>Folder=2%3DCamps%261%3DPeaks%260%3DWater</desc>
+  </metadata>
+  <wpt lat="40.993129509091595" lon="-122.91109886169431">
+    <name>Horseshoe Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="41.003575100584335" lon="-122.90835227966306">
+    <name>Ward Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+  <wpt lat="40.99690306878035" lon="-122.92144145965574">
+    <name>Salmon Lake</name>
+    <cmt/>
+    <desc><![CDATA[comments=&url=%230000FF&folderId=0]]></desc>
+  </wpt>
+</gpx>
