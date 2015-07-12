@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/scott113341/mapping.png?label=ready&title=Ready)](https://waffle.io/scott113341/mapping)
 # GPS
 
 ## Usage
