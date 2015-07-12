@@ -1,0 +1,77 @@
+{
+  "trails": {
+    "collection": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "name": "Horseshoe Lake",
+              "comments": "It's a lake",
+              "id": 0
+            },
+            "coordinates": [
+              40.993129509091595,
+              -122.91109886169431
+            ]
+          }
+        }
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "swag": {
+    "trails": [
+      {
+        "name": "Bear Creek Trail",
+        "comments": "10W06",
+        "id": 7,
+        "folderId": 6,
+        "points": [
+          [
+            40.88740774945659,
+            -123.02406348288059
+          ],
+          [
+            40.887700757656994,
+            -123.02395418286324
+          ]
+        ]
+      }
+    ],
+    "folders": [
+      {
+        "name": "Trails",
+        "id": 0
+      }
+    ],
+    "markers": [
+      {
+        "name": "Horseshoe Lake",
+        "comments": "It's a lake",
+        "id": 0,
+        "point": [
+          40.993129509091595,
+          -122.91109886169431
+        ]
+      }
+    ]
+  }
+}

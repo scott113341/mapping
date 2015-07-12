@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import fs from 'fs';
 import qs from 'qs';
 import request from 'request';
@@ -20,11 +21,51 @@ Map.getMap(mapId)
   })
 
   .then((map) => {
-    map.shapes.forEach((shape) => {
-      shape.way.coordinates.forEach((point) => {
-        map.markers.forEach((marker) => {
-          if (point.lat === marker.position.lat && point.lon === marker.position.lon) console.log('Marker', marker.label, 'lies on', shape.label);
-        });
-      });
+    map.buildPointCache();
+
+    _.forOwn(map.points, (intersection, key) => {
+      if (intersection.length > 1) {
+        console.log('point', key, 'is shared by', intersection.map(i => i.label).join(', '));
+      }
     });
+
+    return map;
+  })
+
+  .then((map) => {
+    map.calculatePrimaryDirections();
+    return map;
+  })
+
+  .then((map) => {
+    map.buildPointCache();
+
+    _.forOwn(map.points, (intersection, key) => {
+      if (intersection.length > 1) {
+        console.log('point', key, 'is shared by', intersection.map(i => {
+
+          if (i.coordinates) {
+            var lastIndex = i.coordinates.length - 1;
+            if (`${i.coordinates[0].lat},${i.coordinates[0].lon}` === key) {
+              return `${i.label} (${i.coordinates[0].end} end)`;
+            }
+            if (`${i.coordinates[lastIndex].lat},${i.coordinates[lastIndex].lon}` === key) {
+              return `${i.label} (${i.coordinates[lastIndex].end} end)`;
+            }
+          }
+
+          return i.label;
+        }).join(', '));
+      }
+    });
+
+    return map;
+  })
+
+
+
+
+  .catch((err) => {
+    console.log('error');
+    console.log(err);
   });
