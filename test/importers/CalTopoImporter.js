@@ -3,35 +3,14 @@ import fs from 'fs';
 import path from 'path';
 import _ from 'lodash';
 
-import {importData} from '../../lib/importers/CalTopoImport.js';
+import {importData} from '../../lib/importers/CalTopoImporter.js';
 import calTopoData from '../data/calTopoData.json';
-
-import GeoJsonExporter from '../../lib/exporters/GeoJsonExporter.js';
-
-
-
-/*
-var mapData = importData(calTopoData);
-console.log(JSON.stringify(mapData, null, 2));
-
-var exporter = new GeoJsonExporter(mapData);
-console.log(exporter);
-
-var file = path.resolve(__dirname, '../out/swag2.json');
-exporter.exportDataToFile(file)
-  .then(() => {
-    console.log('done!!!!!!');
-  })
-  .catch((err) => {
-    console.log('error', err);
-  });
-*/
 
 
 var data = importData(calTopoData);
 
 
-describe('CalTopoImport', () => {
+describe('CalTopoImporter', () => {
 
   describe('data structure', () => {
     it("should have markers, trails, and groups", () => {
