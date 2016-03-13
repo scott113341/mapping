@@ -1,46 +1,25 @@
 import _ from 'lodash';
 import fs from 'fs';
-import path from 'path';
+import qs from 'qs';
+import request from 'request';
+import xml2js from 'xml2js';
 
-import * as config from './config/config.js';
+import * as config from './config/config';
 
-import MapData from './lib/MapData.js';
-import * as CalTopoImporter from './lib/importers/CalTopoImporter.js';
-import * as util from './lib/util.js';
-
-
-//var mapId = '602T';
-var mapId = '112D';
+import * as Map from './lib/Map';
+import * as util from './lib/util';
 
 
-CalTopoImporter.downloadData(mapId)
-  .then((data) => {
-    var mapData = CalTopoImporter.importData(data);
-    console.log(JSON.stringify(mapData, null, 2));
+var mapId = '602T';
 
-    return mapData;
+
+Map.getMap(mapId)
+  .then((map) => {
+    map.roundCoordinates();
+    console.log(JSON.stringify(map, null, 2));
+    return map;
   })
 
-  .then((mapData) => {
-
-    console.log(mapData.markers.features);
-
-    var trailhead1 = mapData.markers.features[0];
-    var peak1 = mapData.markers.features[1];
-
-    console.log(mapData.pointCache.location(trailhead1.geometry.coordinates));
-
-    mapData.buildGraph();
-
-
-
-    //console.log(mapData.route());
-
-  })
-
-
-
-  /*
   .then((map) => {
     map.buildPointCache();
 
@@ -82,7 +61,6 @@ CalTopoImporter.downloadData(mapId)
 
     return map;
   })
-  */
 
 
 
